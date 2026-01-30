@@ -11,13 +11,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Engenharia+de+software;Sempre+aprendendo+coisas+novas)](https://git.io/typing-svg)
 
-<details>	
-  <summary><a href="#"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/icon_github.png"/></a><b> Github Profile Stats</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api username=PHLNeves&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHLNeves&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
-  <br/>
-</details>
-
 <!-- 
 <details>	
 <summary><a href="#"><img src="https://github.com/PHLNveves/PHLNeves/blob/main/images/icon_minimum-value.png"/></a><b> Contribuition Time Series</b></summary>

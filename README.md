@@ -120,6 +120,16 @@
 	</ul>	
 </details> 
 
+<details>		
+  <summary><b> 💻 Meu SetUp</b></summary>
+  	<ul>
+  	    <li><b> PC principal:</b> MacBook M1 - 256GB</li>
+  	    <li><b> PC secundário:</b> Intel I3 10th - RX5600 - 2TB</li>
+	    <br />
+	⚛️ Checkout My Personal Configrations <a href="link">Here</a>.
+	</ul>	
+</details> 
+
 
 <!-- <h4 align="center">
   <a href="link" title="Mostrar repositórios">🔎 Show More 🔍</a>

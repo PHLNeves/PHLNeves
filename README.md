@@ -109,17 +109,15 @@
 	    <li><b>Code Editor:</b> VSCode + Pycharm</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
-	⚛️ Checkout My Personal Configrations <a href="link">Here</a>.
 	</ul>	
 </details> 
 
 <details>		
   <summary><b> 💻 Meu SetUp</b></summary>
   	<ul>
-  	    <li><b> PC principal:</b> MacBook M1 - 256GB</li>
-  	    <li><b> PC secundário:</b> Intel I3 10th - RX5600 - 2TB</li>
+  	    <li><b> PC principal:</b> MacOS- MacBook M1 - 256GB</li>
+  	    <li><b> PC secundário:</b> Windowns 11 pro - Intel I3 10th - RX5600 - 2TB</li>
 	    <br />
-	⚛️ Checkout My Personal Configrations <a href="link">Here</a>.
 	</ul>	
 </details> 
 

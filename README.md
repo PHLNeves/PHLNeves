@@ -101,7 +101,7 @@
 </details>
 
 <details>		
-  <summary><b>⚙️ O que eu uso para deixar meus projetos prontos</b></summary>
+  <summary><b>⚙️ O que eu uso para criar meus projetos</b></summary>
   	<ul>
   	    <li><b>OS:</b> UNIX 03</li>
   	    <li><b>Browser: </b> Chrome</li>

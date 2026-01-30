@@ -131,7 +131,7 @@
 <p  align="center">
 	<a href="mailto:pedro565_henrique@hotmail.com" target="_blank"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/email.png" width="30">
 	</a>
-	<a href="https://stackoverflow.com/users/8329698/bruno-campos" target="_blank"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/stackoverflow.png" width="30">
+	<a href="https://stackoverflow.com/users" target="_blank"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/stackoverflow.png" width="30">
 	</a>
 	<a href="https://www.linkedin.com/in/brunocampos01" target="_blank"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/linkedin.png" width="30">
 	</a>

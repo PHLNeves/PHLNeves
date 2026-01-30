@@ -133,7 +133,7 @@
 	</a>
 	<a href="https://stackoverflow.com/users" target="_blank"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/stackoverflow.png" width="30">
 	</a>
-	<a href="https://www.linkedin.com/in/brunocampos01" target="_blank"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/linkedin.png" width="30">
+	<a href="https://www.linkedin.com/in/pedro-henrique-neves-9003b0346/" target="_blank"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/linkedin.png" width="30">
 	</a>
 	<a href="https://github.com/PHLNeves" target="_blank"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/github.png" width="30"></a>
 	<a href="https://profile.codersrank.io/user/PHLNeves" target="_blank"><img src="https://img.icons8.com/material/24/000000/source-code--v1.png" width="30">

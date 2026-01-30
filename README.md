@@ -78,8 +78,8 @@
       	<td>
 		<a href="https://github.com/PHLNeves/Disciplina-HTML-e-CSS/tree/main">
 		<b>Disciplina HTML e CSS</b></a>
-	<!-- </td>
-      	<td>
+	 </td>
+      	<!-- <td>
 		<a href="Link">
 		<img src="imagem do projeto"/></td>
       </tr>	
@@ -97,7 +97,8 @@
   </table>
   <br />
 </details>
-
+ -->
+			
 <details>		
   <summary><b>⚙️ O que eu uso para criar meus projetos</b></summary>
   	<ul>

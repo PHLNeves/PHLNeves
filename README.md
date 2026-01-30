@@ -9,7 +9,7 @@
   <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Engineer;Always+learninig+new+things)]></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Software+Engineer;%2B6+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Software+Engineer;Always+learninig+new+things)](https://git.io/typing-svg)
 
 <details>	
   <summary><a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_github.png"/></a><b> Github Profile Stats</b></summary>

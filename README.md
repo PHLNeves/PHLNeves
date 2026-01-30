@@ -2,7 +2,7 @@
   
 <!-- <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunocampos01%2Fbrunocampos01&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a> -->
 
-## E aí, eu sou o Pedro Neves.
+## E aí, eu sou o Pedro.
 <!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brunocampos01&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="35%" align="right"> -->
  
 <p align="left">
@@ -29,7 +29,7 @@
 
 ### <a href="#"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/icon_open-source.png"/></a> My Open Souce Projects
 <details>
-  <summary><b> <a href="#"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/icon_graduation.png"/></a> Projetos Acadêmicos</b></summary>
+  <summary><b> <a href="#"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/icon_graduation.png"/></a> DevOps</b></summary>
   <table>
     <thead align="center">
       <tr border: none;>
@@ -74,7 +74,7 @@
 </details>
 
 <details>
-  <summary><b> <a href="#-my-open-souce-projects"><img src="https://img.icons8.com/material/24/000000/docker.png"/></a> DevOps</b></summary>
+  <summary><b> <a href="#-my-open-souce-projects"><img src="https://img.icons8.com/material/24/000000/docker.png"/></a> Projetos Acadêmicos</b></summary>
   <table>
     <thead align="center">
       <tr border: none;>

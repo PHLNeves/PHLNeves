@@ -40,8 +40,8 @@
     <tbody>
       <tr>
       	<td>
-		<a href="link">
-		<b>Título do projeto<</b></a>
+		<a href="https://github.com/PHLNeves/pilatesAi">
+		<b>Projeto Pilates AI<</b></a>
 	</td>
       	<td>
 		<a href="link">
@@ -50,8 +50,8 @@
       </tr>
       <tr>
 	<td>
-		<a href="link">
-		<b>Título do projeto</b></a>
+		<a href="https://github.com/PHLNeves/personaltrainerIA">
+		<b>Personal IA</b></a>
 	</td>
         <td>
 		<a href="link">
@@ -60,8 +60,8 @@
       </tr>
       <tr>
 	<td>
-		<a href="link">
-		<b>Título do projeto</b></a>
+		<a href="https://github.com/PHLNeves/iaruncoach">
+		<b>Projeto Treinador de corrida IA</b></a>
 	</td>
         <td>
 		<a href="link">

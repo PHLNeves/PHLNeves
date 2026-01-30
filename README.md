@@ -12,9 +12,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Software+Engineer;Always+learninig+new+things)](https://git.io/typing-svg)
 
 <details>	
-  <summary><a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_github.png"/></a><b> Github Profile Stats</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocampos01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocampos01&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
+  <summary><a href="#"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/github.png"/></a><b> Github Profile Stats</b></summary>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHLNeves&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHLNeves&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
   <br/>
 </details>
 

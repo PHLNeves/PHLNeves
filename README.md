@@ -40,7 +40,7 @@
     <tbody>
       <tr>
       	<td>
-		<a href="https://github.com/PHLNeves/pilatesAi">
+		<a href="https://github.com/PHLNeves/pilatesAi"
 		<b>Projeto Pilates AI<</b></a>
 	</td>
       	<td>

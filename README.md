@@ -115,7 +115,7 @@
 <details>		
   <summary><b> 💻 Meu SetUp</b></summary>
   	<ul>
-  	    <li><b> PC principal:</b> MacOS- MacBook M1 - 256GB</li>
+  	    <li><b> PC principal:</b> MacOS - MacBook M1 - 256GB</li>
   	    <li><b> PC secundário:</b> Windowns 11 pro - Intel I3 10th - RX5600 - 2TB</li>
 	    <br />
 	</ul>	

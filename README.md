@@ -8,16 +8,13 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Engenharia+de+software;Sempre+aprendendo+coisas+novas)](https://git.io/typing-svg)
-
 <!-- 
 <details>	
 <summary><a href="#"><img src="https://github.com/PHLNveves/PHLNeves/blob/main/images/icon_minimum-value.png"/></a><b> Contribuition Time Series</b></summary>
 <img src="https://activity-graph.herokuapp.com/graph?username=PHLNeves&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </details>
 -->
-
 <br/>
-
 ### <a href="#"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/icon_open-source.png"/></a> My Open Souce Projects
 <details>
   <summary><b> <a href="#"><img src="https://github.com/PHLNeves/PHLNeves/blob/main/images/icon_graduation.png"/></a> DevOps</b></summary>
@@ -29,7 +26,17 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
+        </tr>
+	<td>
+		<a href="https://github.com/PHLNeves/personaltrainerIA">
+		<b>Projeto Planilha de Gastos</b></a>
+	</td>
+        <td>
+		<a href="link">
+		<img src="imagem do projeto"/>
+	</td>
+	    <tr>
+		<tr>
       	<td>
 		<a href="https://github.com/PHLNeves/pilatesAi">
 		<b>Projeto Pilates AI</b></a>

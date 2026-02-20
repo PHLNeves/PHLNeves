@@ -42,7 +42,7 @@
       <tr>
 	<td>
 		<a href="https://github.com/PHLNeves/personaltrainerIA">
-		<b>Personal IA</b></a>
+		<b>Projeto Personal IA</b></a>
 	</td>
         <td>
 		<a href="link">
